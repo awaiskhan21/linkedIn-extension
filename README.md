@@ -1,3 +1,7 @@
-# WXT + React
+# Demo Video
 
-This template should help get you started developing with React in WXT.
+Below is a short demonstration:
+
+<video src="assets/demo-video.mp4" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>

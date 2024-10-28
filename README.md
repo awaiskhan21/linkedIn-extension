@@ -2,6 +2,4 @@
 
 Below is a short demonstration:
 
-<video src="assets/demo-video.mp4" controls="controls" style="max-width: 100%; height: auto;">
-    Your browser does not support the video tag.
-</video>
+[![Demo Video](https://img.youtube.com/vi/h373fCOcQxw/0.jpg)](https://www.youtube.com/watch?v=h373fCOcQxw)
